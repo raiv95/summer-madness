@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="CityZip">Enter city or zip</string>
+    <string name="Search">Search</string>
 </resources>
