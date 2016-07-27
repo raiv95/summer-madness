@@ -1,0 +1,1 @@
+Weather app, makes API calls using openweathermap API
